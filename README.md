@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KetchupCodes
 - 👀 I’m interested in Making Stuff
-- 🌱 I’m currently learning Web Dev , Data Science , DS Algo.
+- 🌱 I’m currently learning Web Dev , Data Science , Computer Science.
 - 📫 How to reach me yrk4232@gmail.com
 
 <!---
