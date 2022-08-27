@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KetchupCodes
+- 👋 Hi, I’m Yashas Kashyap @KetchupCodes
 - 👀 I’m interested in Making Stuff
-- 🌱 I’m currently learning Web Dev , Computer Science.
+- 🌱 I’m currently learning nothing.
 - 📫 How to reach me yrk4232@gmail.com
 
 <!---
