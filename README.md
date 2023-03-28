@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yashas Kashyap @KetchupCodes
 - 👀 I’m interested in Making Stuff
-- 🌱 I’m currently learning nothing.
+- 🌱 Lets go RCB.
 - 📫 How to reach me yrk4232@gmail.com
 
 <!---
